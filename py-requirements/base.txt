@@ -26,7 +26,7 @@ pyOpenSSL==17.2.0
 
 
 # Django
-Django==1.11.4
+Django==1.11.29
 django-disposable-email-checker==1.2.1
 django-rest-swagger==2.1.2
 djangorestframework==3.6.3
